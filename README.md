@@ -1,4 +1,4 @@
-# cypress-cucumber-structure
+# cypress-com-cucumber
 <h2>Estrutra de projeto utilizando Cypress com Cucumber</h2>
 
 <b>Para configurar o Ambiente:</b>
@@ -13,4 +13,3 @@
 <li>Para executar os testes via browser: <i>npx cypress run --browser chrome --no-exit</i></li>
 <li>Para executar os testes via script salvo em package.json: <i>npm run test:chrome</i></li>    
 </ul>
-Tutorial completo de utilização do Cypress com Cucumber: https://medium.com/@cartelli.gf/testes-automatizados-com-cypress-e-cucumber-d78b211da766
